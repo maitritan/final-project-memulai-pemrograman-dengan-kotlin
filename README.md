@@ -1,9 +1,15 @@
-# Proyek Submission MPK 
+# Final Project "Memulai Pemrograman dengan Kotlin"
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+## Project Overview
+Within the project, there are several exercises with details as below:
+* Exercise 1 - Fundamentals
+* Exercise 2 - Control Flow
+* Exercise 3 - Generics
+* Exercise 4 - Collections
+* Exercise 5 - Coroutines
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+## Created by
+Maitri Tanarya
+
+## Reference
+[Dicoding Indonesia course on "Memulai Pemrograman dengan Kotlin"](https://www.dicoding.com/)
